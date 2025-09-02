@@ -1,12 +1,5 @@
 # LangChain RAG Playground 🛝
 
-[Demo](https://github.com/Anteemony/RAG-Playground/assets/103512255/0d944420-e3e8-43cb-aad3-0a459d8d0318)
-
-<video width="640" height="480" autoplay>
-  <source src="RAG_Playground.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
 RAG Playground is an application that allows you to interact with your PDF files using the Language Model of your choice.
 
 ## Introduction
@@ -23,7 +16,7 @@ You find more model/provider information in the [Unify benchmark interface](http
 5. Play!
 
 ## Repository and Deployment
-The repository is located at [RAG Playground Repository](https://github.com/Anteemony/RAG-Playground).
+The repository is located at [RAG Playground Repository](https://github.com/bgb5535-ai/RAG-Playground).
 To run the application locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Set up your virtual environment and install the dependencies from `requirements.txt`:
@@ -46,6 +39,6 @@ python -m streamlit run rag_script.py
 
 | Name | GitHub Profile |
 |------|----------------|
-| Anthony Okonneh | [AO](https://github.com/Anteemony) |
+| Anthony Okonneh | [AO](https://github.com/bgb5535-ai) |
 | Oscar Arroyo Vega | [OscarAV](https://github.com/OscarArroyoVega) |
 | Martin Oywa | [Martin Oywa](https://github.com/martinoywa) |
