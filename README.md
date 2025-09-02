@@ -34,11 +34,3 @@ pip install -r requirements.txt
 ```bash
 python -m streamlit run rag_script.py
 ```
-
-## Contributors
-
-| Name | GitHub Profile |
-|------|----------------|
-| Anthony Okonneh | [AO](https://github.com/bgb5535-ai) |
-| Oscar Arroyo Vega | [OscarAV](https://github.com/OscarArroyoVega) |
-| Martin Oywa | [Martin Oywa](https://github.com/martinoywa) |
